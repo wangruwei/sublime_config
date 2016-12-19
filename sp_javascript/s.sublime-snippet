@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+self.${1:obj} = $2
+]]>
+	</content>
+	<tabTrigger>s</tabTrigger>
+	<description>self</description>
+	<scope>source.js</scope>
+</snippet>

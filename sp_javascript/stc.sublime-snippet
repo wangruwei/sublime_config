@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+clearTimeout(${1:timer});$2
+]]>
+	</content>
+	<tabTrigger>stc</tabTrigger>
+	<description>clearTimeout()</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+console.error(${1:obj});$2
+]]>
+	</content>
+	<tabTrigger>cee</tabTrigger>
+	<description>console.error()</description>
+	<scope>source.js</scope>
+</snippet>

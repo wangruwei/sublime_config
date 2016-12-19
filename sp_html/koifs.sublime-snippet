@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+<!-- ko if: ${1:obj} -->
+]]>
+	</content>
+	<tabTrigger>koifs</tabTrigger>
+	<description>ko, if, start</description>
+	<scope>source.js</scope>
+</snippet>

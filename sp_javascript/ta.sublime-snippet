@@ -1,0 +1,22 @@
+<snippet>
+	<content>
+<![CDATA[
+Tools.ajax({
+    url    : "${1:url}",
+    data   : {
+        ${2:params}
+    },
+    success: function (returnData) {
+        console.info(returnData);
+
+        if (returnData.success) {
+            ${3:// body...}
+        }
+    }
+});
+]]>
+	</content>
+	<tabTrigger>ta</tabTrigger>
+	<description>Tools.ajax</description>
+	<scope>source.js</scope>
+</snippet>

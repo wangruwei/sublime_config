@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ko.validation.group(${1:obj});
+]]>
+	</content>
+	<tabTrigger>kvg</tabTrigger>
+	<description>ko.validation.group()</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+ko.utils.arrayForEach(${1:list}, function (${2:obj}) {
+    ${3:// body...}
+});
+]]>
+	</content>
+	<tabTrigger>koaf</tabTrigger>
+	<description>ko.utils.arrayForEach</description>
+	<scope>source.js</scope>
+</snippet>

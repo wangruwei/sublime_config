@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="value: ${1:func}"
+]]>
+	</content>
+	<tabTrigger>dbv</tabTrigger>
+	<description>data-bind, value</description>
+	<scope>source.js</scope>
+</snippet>

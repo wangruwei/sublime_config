@@ -1,0 +1,22 @@
+<snippet>
+	<content>
+<![CDATA[
+'use strict';
+
+define(["knockout", "Super"], function (ko, Super) {
+    return function (context) {
+        var self = Super.call(this, context);
+
+        ${2:// body...}
+
+        if (self.data.test) {
+            window.${1:fileName} = self;
+        }
+    };
+});
+]]>
+    </content>
+	<tabTrigger>define</tabTrigger>
+	<description>define 默认结构</description>
+	<scope>source.js</scope>
+</snippet>

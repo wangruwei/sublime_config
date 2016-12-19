@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<!-- ko if: $1 -->
+
+<!-- /ko -->
+]]></content>
+	<tabTrigger>koif</tabTrigger>
+	<description>ko, if</description>
+	<scope>text.html</scope>
+</snippet>

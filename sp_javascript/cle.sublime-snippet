@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+console.log(${1:obj});$2
+]]>
+	</content>
+	<tabTrigger>cle</tabTrigger>
+	<description>console.log()</description>
+	<scope>source.js</scope>
+</snippet>

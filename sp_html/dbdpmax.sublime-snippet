@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="datepicker: ${1:obj}, datepickerOptions: { changeYear: true, changeMonth: true, maxDate:  }, value: , valueUpdate: \'keyup\'" readonly="readonly"
+]]>
+	</content>
+	<tabTrigger>dbdpmax</tabTrigger>
+	<description>data-bind, datepicker, max</description>
+	<scope>source.js</scope>
+</snippet>

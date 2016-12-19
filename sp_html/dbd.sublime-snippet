@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="date: ${1:obj}"
+]]>
+	</content>
+	<tabTrigger>dbd</tabTrigger>
+	<description>data-bind, date</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+Object.assign($1, $2)
+]]>
+	</content>
+	<tabTrigger>oa</tabTrigger>
+	<description>Object.assign()</description>
+	<scope>source.js</scope>
+</snippet>

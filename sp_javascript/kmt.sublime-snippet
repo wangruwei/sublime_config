@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ko.mapping.toJS(${1:obj})
+]]>
+	</content>
+	<tabTrigger>kmt</tabTrigger>
+	<description>ko.mapping.toJS()</description>
+	<scope>source.js</scope>
+</snippet>

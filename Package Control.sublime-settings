@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"Agila Theme",
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"ayu",
+		"Behave Color Scheme",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FreeMarker",
+		"Gulp",
+		"Highlight",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JsonTree",
+		"Material Theme",
+		"One Dark Material - Theme",
+		"OpenInBrowser",
+		"Package Control",
+		"Package Syncing",
+		"PackageResourceViewer",
+		"QuoteHTML",
+		"Sass",
+		"ScrollAlternative",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"View In Browser"
+	]
+}

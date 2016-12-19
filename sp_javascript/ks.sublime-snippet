@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+${1:target}.subscribe(function (${2:value}) {
+    ${3:// body...}
+});$4
+]]>
+	</content>
+	<tabTrigger>ks</tabTrigger>
+	<description>ko subscribe</description>
+	<scope>source.js</scope>
+</snippet>

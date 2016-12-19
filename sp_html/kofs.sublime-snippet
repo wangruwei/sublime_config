@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+<!-- ko foreach: ${1:list} -->
+]]>
+	</content>
+	<tabTrigger>kofs</tabTrigger>
+	<description>ko, foreach, start</description>
+	<scope>source.js</scope>
+</snippet>

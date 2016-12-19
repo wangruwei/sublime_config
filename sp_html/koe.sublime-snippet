@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+<!-- /ko -->
+]]>
+	</content>
+	<tabTrigger>koe</tabTrigger>
+	<description>ko, end</description>
+	<scope>source.js</scope>
+</snippet>

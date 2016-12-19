@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="datepicker: ${1:obj}, datepickerOptions: { changeYear: true, changeMonth: true, minDate:  }, value: , valueUpdate: \'keyup\'" readonly="readonly"
+]]>
+	</content>
+	<tabTrigger>dbdpmin</tabTrigger>
+	<description>data-bind, datepicker, min</description>
+	<scope>source.js</scope>
+</snippet>

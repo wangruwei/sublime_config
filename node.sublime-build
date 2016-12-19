@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "node --harmony $file",
+  "selector": "source.js"
+}

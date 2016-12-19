@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+data-bind="$1"
+]]></content>
+	<tabTrigger>db</tabTrigger>
+	<description>data-bind</description>
+	<scope>text.html</scope>
+</snippet>

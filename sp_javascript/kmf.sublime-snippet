@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ko.mapping.fromJS(${1:arr})${2:()}
+]]>
+	</content>
+	<tabTrigger>kmf</tabTrigger>
+	<description>ko.mapping.fromJS()</description>
+	<scope>source.js</scope>
+</snippet>

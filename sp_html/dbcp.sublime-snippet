@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="click: $parent.$1"
+]]>
+	</content>
+	<tabTrigger>dbcp</tabTrigger>
+	<description>data-bind, click, $parent</description>
+	<scope>source.js</scope>
+</snippet>

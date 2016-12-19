@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="click: ${1:func}"
+]]>
+	</content>
+	<tabTrigger>dbc</tabTrigger>
+	<description>data-bind, click</description>
+	<scope>source.js</scope>
+</snippet>

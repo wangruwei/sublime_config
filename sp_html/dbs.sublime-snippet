@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="options: ${1:arr}, optionsValue: \'$2\', optionsText: \'$3\', value: $4"
+]]>
+	</content>
+	<tabTrigger>dbt</tabTrigger>
+	<description>data-bind, select</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+ko.observableArray(${1:obj});$2
+]]>
+	</content>
+	<tabTrigger>koa</tabTrigger>
+	<description>ko.observableArray()</description>
+	<scope>source.js</scope>
+</snippet>

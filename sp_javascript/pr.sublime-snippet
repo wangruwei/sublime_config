@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+$("body").one("pageReady", function () {
+    ${1:// body...}
+});
+]]>
+	</content>
+	<tabTrigger>pr</tabTrigger>
+	<description>pageReady</description>
+	<scope>source.js</scope>
+</snippet>

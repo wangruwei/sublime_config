@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+<!-- ko ifnot: ${1:obj} -->
+
+<!-- /ko -->
+]]>
+	</content>
+	<tabTrigger>koifnot</tabTrigger>
+	<description>ko, ifnot</description>
+	<scope>source.js</scope>
+</snippet>

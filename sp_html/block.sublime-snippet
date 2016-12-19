@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+{% block ${1:block name} %}
+
+{% endblock %}
+]]>
+	</content>
+	<tabTrigger>block</tabTrigger>
+	<description>swig, block</description>
+	<scope>source.js</scope>
+</snippet>

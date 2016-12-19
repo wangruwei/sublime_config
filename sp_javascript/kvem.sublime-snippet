@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+self.errors.showAllMessages();$1
+]]>
+	</content>
+	<tabTrigger>kvem</tabTrigger>
+	<description>self.errors.showAllMessages()</description>
+	<scope>source.js</scope>
+</snippet>

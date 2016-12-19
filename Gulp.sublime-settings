@@ -1,0 +1,6 @@
+{
+	// "gulpfile_paths": ["src", "/Users/wangruwei/work/project/livecast/"],
+	"results_in_new_tab": false,
+	"recursive_gulpfile_search": true,
+	"results_autoclose_timeout_in_milliseconds": 100,
+}

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="attr: { ${1:attribute} }"
+]]>
+	</content>
+	<tabTrigger>dba</tabTrigger>
+	<description>data-bind, attr</description>
+	<scope>source.js</scope>
+</snippet>

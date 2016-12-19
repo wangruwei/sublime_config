@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+JSON.parse(${1:string});$2
+]]>
+	</content>
+	<tabTrigger>jp</tabTrigger>
+	<description>JSON.parse</description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+data-bind="datepicker: ${1:obj}, datepickerOptions: { changeYear: true, changeMonth: true }, value: , valueUpdate: \'keyup\'" readonly="readonly"
+]]>
+	</content>
+	<tabTrigger>dbdp</tabTrigger>
+	<description>data-bind, datepicker</description>
+	<scope>source.js</scope>
+</snippet>
