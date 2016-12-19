@@ -1,2 +1,2 @@
 # sublime_config
-restore config of sublime
+sublime配置备份文件
